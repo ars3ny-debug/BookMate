@@ -14,3 +14,7 @@ venv/
 
 # Docker
 *.log
+
+venv/
+.venv/
+env/
